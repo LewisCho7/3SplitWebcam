@@ -15,3 +15,4 @@ simple 3 split video recorder using OpenCV
 
 enjoy
 
+[Video](https://youtu.be/RbCpXsXoOO8)
